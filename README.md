@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Breno Ramos
+# ⚡ Breno Ramos
 
 **`Desenvolvedor Java`**
 

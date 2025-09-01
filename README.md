@@ -188,7 +188,7 @@ Tenho grande interesse nas áreas de **tecnologia, pesquisa e ensino**, além de
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoJRamos&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&bg_color=000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&bg_color=000000" 
   />
 </p>
 

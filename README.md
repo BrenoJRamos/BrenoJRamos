@@ -1,25 +1,36 @@
-# ⚡ Breno Ramos
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0000FF&center=false&vCenter=true&random=false&width=450&lines=Ol%C3%A1%2C+me+chamo+Breno+Ramos" alt="Typing SVG">
+  </a>
+</div>
+
 
 **`Desenvolvedor Java`**
 
 Me chamo **Breno Ramos**, tenho 19 anos e sou natural de Pernambuco. Concluí o curso técnico em <span style="color:#ffcc00; font-weight:bold">Redes de Computadores</span> pela **Escola Técnica Estadual Maximiano Accioly Campos** e, atualmente, curso <span style="color:#ffcc00; font-weight:bold">Ciência da Computação</span> na UFPE, com foco de estudos em <span style="color:#ffcc00; font-weight:bold">Java</span>.  
 
 Tenho grande interesse nas áreas de **tecnologia, pesquisa e ensino**, além de almejar a carreira de **Perito Criminal Federal em Informática**.
-
+<br><br>
 <p align="left">
-   <a href="https://www.linkedin.com/in/breno-ramos-9492492b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlHio4ZJlQGC8s%2Btw6nSPog%3D%3D">
-      <img alt="LinkedIn" title="LinkedIn" 
-           src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://www.instagram.com/be_ramosk/">
-      <img alt="Instagram" title="Instagram" 
-           src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
-   </a>
-   <a href="mailto:brenojramospro@gmail.com">
-      <img alt="Email" title="Email" 
-           src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
+  <a href="https://www.linkedin.com/in/breno-ramos-9492492b8">
+    <img alt="LinkedIn" title="LinkedIn"
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&font=Roboto"
+         height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/be_ramosk/">
+    <img alt="Instagram" title="Instagram"
+         src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white&font=Roboto"
+         height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:brenojramospro@gmail.com">
+    <img alt="Email" title="Email"
+         src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=minutemailer&logoColor=white&font=Roboto"
+         height="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -146,28 +157,28 @@ Tenho grande interesse nas áreas de **tecnologia, pesquisa e ensino**, além de
       title="CCNA: Introduction to Networks"
       src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" 
       height="120" 
-      style="padding-right: 20px;"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/5891ac4e-b0dc-4a54-bd64-29460e816601/public_url">
     <img 
       alt="Cybersecurity Essentials" 
       title="Cybersecurity Essentials"
       src="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" 
       height="120" 
-      style="padding-right: 20px;"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/ba9b8b15-cfdc-4f89-8a75-2dbd51677a56/public_url">
     <img 
       alt="Introduction to Cybersecurity" 
       title="Introduction to Cybersecurity"
       src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" 
       height="120" 
-      style="padding-right: 20px;"
     />
   </a>
 </p>
+
 
 <br/>
 

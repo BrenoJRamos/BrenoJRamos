@@ -9,7 +9,6 @@
 
 Me chamo **Breno Ramos**, tenho 19 anos e sou natural de Pernambuco. Concluí o curso técnico em <span style="color:#ffcc00; font-weight:bold">Redes de Computadores</span> pela **Escola Técnica Estadual Maximiano Accioly Campos** e, atualmente, curso <span style="color:#ffcc00; font-weight:bold">Ciência da Computação</span> na UFPE, com foco de estudos em <span style="color:#ffcc00; font-weight:bold">Java</span>.  
 
-Tenho grande interesse nas áreas de **tecnologia, pesquisa e ensino**, além de almejar a carreira de **Perito Criminal Federal em Informática**.
 <br><br>
 <p align="left">
   <a href="https://www.linkedin.com/in/breno-ramos-9492492b8">

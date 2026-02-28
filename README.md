@@ -7,7 +7,7 @@
 
 **`Computer Science student`**
 
-Me chamo **Breno Ramos**, tenho 19 anos e sou natural de Pernambuco. Concluí o curso técnico em <span style="color:#ffcc00; font-weight:bold">Redes de Computadores</span> pela **Escola Técnica Estadual Maximiano Accioly Campos** e, atualmente, curso <span style="color:#ffcc00; font-weight:bold">Ciência da Computação</span> na UFPE, com foco de estudos em <span style="color:#ffcc00; font-weight:bold">Java</span>.  
+Me chamo Breno Ramos, tenho 19 anos e sou natural de Pernambuco. Concluí o curso técnico em Redes de Computadores pela Escola Técnica Estadual Maximiano Accioly Campos e, atualmente, curso Ciência da Computação na UFPE. Também atuo como desenvolvedor Front-end no V-Lab da UFPE, onde utilizo tecnologias como HTML, CSS, TypeScript, React, Tailwind e Git.  
 
 <br><br>
 <p align="left">

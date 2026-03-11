@@ -7,8 +7,7 @@
 
 **`Computer Science student`**
 
-Me chamo Breno Ramos, tenho 19 anos e sou natural de Pernambuco. Concluí o curso técnico em Redes de Computadores pela Escola Técnica Estadual Maximiano Accioly Campos e, atualmente, curso Ciência da Computação na UFPE. Também atuo como desenvolvedor Front-end no V-Lab da UFPE, onde utilizo tecnologias como HTML, CSS, TypeScript, React, Tailwind e Git.  
-
+My name is Breno Ramos, I am 19 years old and I am from Pernambuco, Brazil. I completed a technical degree in Computer Networks at the Escola Técnica Estadual Maximiano Accioly Campos and I am currently pursuing a degree in Computer Science at UFPE. I also work as a Front-end Developer at UFPE's V-Lab, where I use technologies such as HTML, CSS, TypeScript, React, Tailwind, and Git.
 <br><br>
 <p align="left">
   <a href="https://www.linkedin.com/in/breno-ramos-9492492b8">

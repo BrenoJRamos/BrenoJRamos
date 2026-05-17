@@ -70,13 +70,6 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BrenoJRamos&show_icons=true&hide_border=true&include_all_commits=true&locale=en&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoJRamos&layout=compact&custom_title=Technologies&langs_count=9&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/BrenoJRamos/BrenoJRamos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
